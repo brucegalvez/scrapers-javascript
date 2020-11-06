@@ -1,0 +1,1826 @@
+[
+  {
+    "id": 643,
+    "vcName": ".406 Ventures"
+  },
+  {
+    "id": 481,
+    "vcName": "14W"
+  },
+  {
+    "id": 28,
+    "vcName": "2 a.m."
+  },
+  {
+    "id": 287,
+    "vcName": 500
+  },
+  {
+    "id": 288,
+    "vcName": "5AM Ventures"
+  },
+  {
+    "id": 289,
+    "vcName": "8VC"
+  },
+  {
+    "id": 294,
+    "vcName": "AME Cloud"
+  },
+  {
+    "id": 613,
+    "vcName": "Abry"
+  },
+  {
+    "id": 290,
+    "vcName": "Accel"
+  },
+  {
+    "id": 576,
+    "vcName": "Accion"
+  },
+  {
+    "id": 291,
+    "vcName": "Acrew"
+  },
+  {
+    "id": 43,
+    "vcName": "Act One Ventures"
+  },
+  {
+    "id": 603,
+    "vcName": "Advanced Tech"
+  },
+  {
+    "id": 368,
+    "vcName": "Advanced Tech Ventures"
+  },
+  {
+    "id": 596,
+    "vcName": "Advent"
+  },
+  {
+    "id": 584,
+    "vcName": "Agent"
+  },
+  {
+    "id": 394,
+    "vcName": "AllegisCyber"
+  },
+  {
+    "id": 474,
+    "vcName": "Allen & company"
+  },
+  {
+    "id": 490,
+    "vcName": "AllianceBernstein"
+  },
+  {
+    "id": 292,
+    "vcName": "Alloy"
+  },
+  {
+    "id": 45,
+    "vcName": "Alpha Edison"
+  },
+  {
+    "id": 510,
+    "vcName": "Amerindo"
+  },
+  {
+    "id": 295,
+    "vcName": "Amicus"
+  },
+  {
+    "id": 10,
+    "vcName": "Amplify"
+  },
+  {
+    "id": 29,
+    "vcName": "Amplite Capital"
+  },
+  {
+    "id": 297,
+    "vcName": "Andressen"
+  },
+  {
+    "id": 298,
+    "vcName": "Angelpad"
+  },
+  {
+    "id": 473,
+    "vcName": "Aperture"
+  },
+  {
+    "id": 479,
+    "vcName": "Apple Tree Partners"
+  },
+  {
+    "id": 631,
+    "vcName": "Artemis Capital"
+  },
+  {
+    "id": 482,
+    "vcName": "Ascend Venture Group"
+  },
+  {
+    "id": 299,
+    "vcName": "Aspect"
+  },
+  {
+    "id": 300,
+    "vcName": "Asset Management Ventures"
+  },
+  {
+    "id": 293,
+    "vcName": "Atla"
+  },
+  {
+    "id": 355,
+    "vcName": "Atrium"
+  },
+  {
+    "id": 600,
+    "vcName": "Audax"
+  },
+  {
+    "id": 301,
+    "vcName": "August"
+  },
+  {
+    "id": 53,
+    "vcName": "Avp"
+  },
+  {
+    "id": 302,
+    "vcName": "Azure"
+  },
+  {
+    "id": 33,
+    "vcName": "BAM Ventures"
+  },
+  {
+    "id": 434,
+    "vcName": "BBG"
+  },
+  {
+    "id": 285,
+    "vcName": "BBVA"
+  },
+  {
+    "id": 646,
+    "vcName": "BV Investment"
+  },
+  {
+    "id": 610,
+    "vcName": "Bain"
+  },
+  {
+    "id": 303,
+    "vcName": "Baseline"
+  },
+  {
+    "id": 304,
+    "vcName": "Battery"
+  },
+  {
+    "id": 568,
+    "vcName": "Battery Ventures"
+  },
+  {
+    "id": 306,
+    "vcName": "Bay"
+  },
+  {
+    "id": 305,
+    "vcName": "Bay city"
+  },
+  {
+    "id": 676,
+    "vcName": "Beacon Angels"
+  },
+  {
+    "id": 307,
+    "vcName": "Benchmark"
+  },
+  {
+    "id": 607,
+    "vcName": "Berkshire"
+  },
+  {
+    "id": 308,
+    "vcName": "Bessemer"
+  },
+  {
+    "id": 527,
+    "vcName": "Betaworks"
+  },
+  {
+    "id": 561,
+    "vcName": "Bioventures"
+  },
+  {
+    "id": 581,
+    "vcName": "Blackstone"
+  },
+  {
+    "id": 478,
+    "vcName": "Blue Cloud Ventures"
+  },
+  {
+    "id": 640,
+    "vcName": "Blue Ivy Ventures"
+  },
+  {
+    "id": 309,
+    "vcName": "BlueRun"
+  },
+  {
+    "id": 463,
+    "vcName": "Blueprint"
+  },
+  {
+    "id": 310,
+    "vcName": "Blumberg"
+  },
+  {
+    "id": 548,
+    "vcName": "Boldstart"
+  },
+  {
+    "id": 311,
+    "vcName": "Bolt"
+  },
+  {
+    "id": 312,
+    "vcName": "Bond"
+  },
+  {
+    "id": 280,
+    "vcName": "Bonfire Ventures"
+  },
+  {
+    "id": 668,
+    "vcName": "Boston Harbor Angels"
+  },
+  {
+    "id": 661,
+    "vcName": "Boston Millenia"
+  },
+  {
+    "id": 455,
+    "vcName": "Bowery Capital"
+  },
+  {
+    "id": 485,
+    "vcName": "Braemar"
+  },
+  {
+    "id": 567,
+    "vcName": "Breakway"
+  },
+  {
+    "id": 602,
+    "vcName": "Breton Capital Management"
+  },
+  {
+    "id": 658,
+    "vcName": "Brooke"
+  },
+  {
+    "id": 645,
+    "vcName": "Brown Brothers"
+  },
+  {
+    "id": 622,
+    "vcName": "Building Ventures"
+  },
+  {
+    "id": 313,
+    "vcName": "Bullpen"
+  },
+  {
+    "id": 40,
+    "vcName": "CAA Ventures"
+  },
+  {
+    "id": 503,
+    "vcName": "CAM"
+  },
+  {
+    "id": 590,
+    "vcName": "CARB-X"
+  },
+  {
+    "id": 336,
+    "vcName": "CME"
+  },
+  {
+    "id": 319,
+    "vcName": "CRV"
+  },
+  {
+    "id": 582,
+    "vcName": "CVP"
+  },
+  {
+    "id": 314,
+    "vcName": "Canaan"
+  },
+  {
+    "id": 62,
+    "vcName": "Canyon Creek Capital"
+  },
+  {
+    "id": 549,
+    "vcName": "Capital Z"
+  },
+  {
+    "id": 555,
+    "vcName": "Capstone"
+  },
+  {
+    "id": 499,
+    "vcName": "Casdin Capital"
+  },
+  {
+    "id": 578,
+    "vcName": "Castle Island"
+  },
+  {
+    "id": 639,
+    "vcName": "Castor"
+  },
+  {
+    "id": 588,
+    "vcName": "Causeway Media Partners"
+  },
+  {
+    "id": 635,
+    "vcName": "Century Capital"
+  },
+  {
+    "id": 64,
+    "vcName": "Chaac Ventures"
+  },
+  {
+    "id": 46,
+    "vcName": "Chancebending Ventures, Inc"
+  },
+  {
+    "id": 616,
+    "vcName": "Charles River"
+  },
+  {
+    "id": 611,
+    "vcName": "Charlesbank"
+  },
+  {
+    "id": 652,
+    "vcName": "Clean Energy"
+  },
+  {
+    "id": 57,
+    "vcName": "Clocktower Technology Ventures"
+  },
+  {
+    "id": 315,
+    "vcName": "Coatue"
+  },
+  {
+    "id": 54,
+    "vcName": "Cobalt Capital"
+  },
+  {
+    "id": 542,
+    "vcName": "Collaborative Fund"
+  },
+  {
+    "id": 316,
+    "vcName": "Comcast"
+  },
+  {
+    "id": 612,
+    "vcName": "Commonwealth"
+  },
+  {
+    "id": 522,
+    "vcName": "Compound"
+  },
+  {
+    "id": 488,
+    "vcName": "Contour Venture Partners"
+  },
+  {
+    "id": 453,
+    "vcName": "Conversion Capital"
+  },
+  {
+    "id": 459,
+    "vcName": "Counterview"
+  },
+  {
+    "id": 430,
+    "vcName": "Crescendo"
+  },
+  {
+    "id": 535,
+    "vcName": "Cross Atlantic"
+  },
+  {
+    "id": 63,
+    "vcName": "Cross Campus"
+  },
+  {
+    "id": 65,
+    "vcName": "Cross Campus-hidden"
+  },
+  {
+    "id": 1,
+    "vcName": "Crosscut Ventures"
+  },
+  {
+    "id": 317,
+    "vcName": "Crosslink"
+  },
+  {
+    "id": 318,
+    "vcName": "Crosspoint"
+  },
+  {
+    "id": 675,
+    "vcName": "Cue Ball"
+  },
+  {
+    "id": 320,
+    "vcName": "DAG"
+  },
+  {
+    "id": 322,
+    "vcName": "DCM"
+  },
+  {
+    "id": 323,
+    "vcName": "DN Capital"
+  },
+  {
+    "id": 321,
+    "vcName": "Data Collective"
+  },
+  {
+    "id": 570,
+    "vcName": "Data Point Capital"
+  },
+  {
+    "id": 31,
+    "vcName": "Defy Ventures"
+  },
+  {
+    "id": 327,
+    "vcName": "Delphi"
+  },
+  {
+    "id": 601,
+    "vcName": "Denham"
+  },
+  {
+    "id": 476,
+    "vcName": "Deutsche Bank"
+  },
+  {
+    "id": 508,
+    "vcName": "Digital Currency Group"
+  },
+  {
+    "id": 37,
+    "vcName": "Disney Accelerator"
+  },
+  {
+    "id": 324,
+    "vcName": "Draper"
+  },
+  {
+    "id": 325,
+    "vcName": "Draper Richards"
+  },
+  {
+    "id": 449,
+    "vcName": "Dreamit"
+  },
+  {
+    "id": 674,
+    "vcName": "EQx"
+  },
+  {
+    "id": 67,
+    "vcName": "EXPERT DOJO"
+  },
+  {
+    "id": 487,
+    "vcName": "Easton"
+  },
+  {
+    "id": 326,
+    "vcName": "EcoR1 Capital Fund"
+  },
+  {
+    "id": 69,
+    "vcName": "Embark Ventures"
+  },
+  {
+    "id": 328,
+    "vcName": "Emergence"
+  },
+  {
+    "id": 471,
+    "vcName": "Endeavor"
+  },
+  {
+    "id": 465,
+    "vcName": "Enhanced"
+  },
+  {
+    "id": 441,
+    "vcName": "Eniac"
+  },
+  {
+    "id": 525,
+    "vcName": "Entrepreneurs Roundtable"
+  },
+  {
+    "id": 448,
+    "vcName": "EquityZen"
+  },
+  {
+    "id": 648,
+    "vcName": "Essex"
+  },
+  {
+    "id": 329,
+    "vcName": "Essex Woodlands"
+  },
+  {
+    "id": 461,
+    "vcName": "Euclid"
+  },
+  {
+    "id": 279,
+    "vcName": "Evolution Media"
+  },
+  {
+    "id": 606,
+    "vcName": "Excel"
+  },
+  {
+    "id": 426,
+    "vcName": "Expa"
+  },
+  {
+    "id": 504,
+    "vcName": "Expansion"
+  },
+  {
+    "id": 637,
+    "vcName": "FA Technology"
+  },
+  {
+    "id": 456,
+    "vcName": "FJ Labs"
+  },
+  {
+    "id": 650,
+    "vcName": "Falcon"
+  },
+  {
+    "id": 330,
+    "vcName": "Felicis"
+  },
+  {
+    "id": 551,
+    "vcName": "Female Founders"
+  },
+  {
+    "id": 9,
+    "vcName": "FifthWall"
+  },
+  {
+    "id": 42,
+    "vcName": "Fika Ventures"
+  },
+  {
+    "id": 651,
+    "vcName": "FinTech Sandbox"
+  },
+  {
+    "id": 331,
+    "vcName": "First Round"
+  },
+  {
+    "id": 573,
+    "vcName": "First Star"
+  },
+  {
+    "id": 518,
+    "vcName": "FirstMark"
+  },
+  {
+    "id": 597,
+    "vcName": "Flare Capital"
+  },
+  {
+    "id": 454,
+    "vcName": "Flatiron"
+  },
+  {
+    "id": 493,
+    "vcName": "Flatiron Partners"
+  },
+  {
+    "id": 604,
+    "vcName": "Fletcher Spaght"
+  },
+  {
+    "id": 579,
+    "vcName": "Flint Capital"
+  },
+  {
+    "id": 332,
+    "vcName": "Floodgate"
+  },
+  {
+    "id": 626,
+    "vcName": "Flybridge"
+  },
+  {
+    "id": 333,
+    "vcName": "Forerunner"
+  },
+  {
+    "id": 334,
+    "vcName": "Foundation"
+  },
+  {
+    "id": 587,
+    "vcName": "Founder Collective"
+  },
+  {
+    "id": 335,
+    "vcName": "Founder Friendly Labs"
+  },
+  {
+    "id": 337,
+    "vcName": "FoundersFund"
+  },
+  {
+    "id": 338,
+    "vcName": "Freestyle"
+  },
+  {
+    "id": 281,
+    "vcName": "Frontier Venture Capital"
+  },
+  {
+    "id": 66,
+    "vcName": "Fusion LA"
+  },
+  {
+    "id": 605,
+    "vcName": "G20"
+  },
+  {
+    "id": 539,
+    "vcName": "GC Capital"
+  },
+  {
+    "id": 339,
+    "vcName": "GGV"
+  },
+  {
+    "id": 344,
+    "vcName": "GV"
+  },
+  {
+    "id": 585,
+    "vcName": "General Catalyst"
+  },
+  {
+    "id": 624,
+    "vcName": "Glasswing"
+  },
+  {
+    "id": 666,
+    "vcName": "Globespan"
+  },
+  {
+    "id": 514,
+    "vcName": "Goldman Sachs"
+  },
+  {
+    "id": 442,
+    "vcName": "Grace"
+  },
+  {
+    "id": 464,
+    "vcName": "Grand Central Tech"
+  },
+  {
+    "id": 342,
+    "vcName": "Granite"
+  },
+  {
+    "id": 608,
+    "vcName": "Great Hill"
+  },
+  {
+    "id": 472,
+    "vcName": "Great Oaks Venture"
+  },
+  {
+    "id": 19,
+    "vcName": "Greycroft"
+  },
+  {
+    "id": 343,
+    "vcName": "Greylock"
+  },
+  {
+    "id": 23,
+    "vcName": "Grid110"
+  },
+  {
+    "id": 599,
+    "vcName": "Guidepost"
+  },
+  {
+    "id": 546,
+    "vcName": "HDS Capital"
+  },
+  {
+    "id": 593,
+    "vcName": "HLM"
+  },
+  {
+    "id": 346,
+    "vcName": "HWVP"
+  },
+  {
+    "id": 13,
+    "vcName": "Halogen Ventures"
+  },
+  {
+    "id": 554,
+    "vcName": "HarbourVest"
+  },
+  {
+    "id": 475,
+    "vcName": "Harmony Partners"
+  },
+  {
+    "id": 512,
+    "vcName": "Highbridge Capital Management"
+  },
+  {
+    "id": 375,
+    "vcName": "Highland"
+  },
+  {
+    "id": 345,
+    "vcName": "Homebrew"
+  },
+  {
+    "id": 556,
+    "vcName": "Hyperplane"
+  },
+  {
+    "id": 452,
+    "vcName": "IA Ventures"
+  },
+  {
+    "id": 356,
+    "vcName": "IVP"
+  },
+  {
+    "id": 347,
+    "vcName": "Icon"
+  },
+  {
+    "id": 348,
+    "vcName": "Ignition"
+  },
+  {
+    "id": 349,
+    "vcName": "Index"
+  },
+  {
+    "id": 543,
+    "vcName": "Indicator"
+  },
+  {
+    "id": 350,
+    "vcName": "Initialized"
+  },
+  {
+    "id": 351,
+    "vcName": "Innovation Endeavors"
+  },
+  {
+    "id": 444,
+    "vcName": "Insight Partners"
+  },
+  {
+    "id": 352,
+    "vcName": "Integral"
+  },
+  {
+    "id": 353,
+    "vcName": "Intel"
+  },
+  {
+    "id": 354,
+    "vcName": "Interwest"
+  },
+  {
+    "id": 536,
+    "vcName": "Invus"
+  },
+  {
+    "id": 511,
+    "vcName": "JP Morgan"
+  },
+  {
+    "id": 460,
+    "vcName": "Jefferies"
+  },
+  {
+    "id": 498,
+    "vcName": "Jennison Associates"
+  },
+  {
+    "id": 559,
+    "vcName": "Johnson & Johnson"
+  },
+  {
+    "id": 502,
+    "vcName": "KBL"
+  },
+  {
+    "id": 286,
+    "vcName": "KEC Ventures"
+  },
+  {
+    "id": 358,
+    "vcName": "Kapor"
+  },
+  {
+    "id": 50,
+    "vcName": "Karlin Ventures"
+  },
+  {
+    "id": 359,
+    "vcName": "Khosla"
+  },
+  {
+    "id": 360,
+    "vcName": "Kindred Ventures"
+  },
+  {
+    "id": 361,
+    "vcName": "Kleiner Perkins"
+  },
+  {
+    "id": 17,
+    "vcName": "LAMemorial_stadium"
+  },
+  {
+    "id": 18,
+    "vcName": "LA_Dt"
+  },
+  {
+    "id": 653,
+    "vcName": "LRVHealth"
+  },
+  {
+    "id": 362,
+    "vcName": "Labrador"
+  },
+  {
+    "id": 436,
+    "vcName": "Laconia Ventures"
+  },
+  {
+    "id": 563,
+    "vcName": "LearnLaunch"
+  },
+  {
+    "id": 638,
+    "vcName": "Leerink"
+  },
+  {
+    "id": 507,
+    "vcName": "Lerer Hippeau"
+  },
+  {
+    "id": 625,
+    "vcName": "Liberty Mutual"
+  },
+  {
+    "id": 363,
+    "vcName": "Lightspeed"
+  },
+  {
+    "id": 598,
+    "vcName": "Longwood"
+  },
+  {
+    "id": 364,
+    "vcName": "Lowercase"
+  },
+  {
+    "id": 71,
+    "vcName": "Luma Launch"
+  },
+  {
+    "id": 451,
+    "vcName": "Lux Capital"
+  },
+  {
+    "id": 21,
+    "vcName": "LvlUp Ventures"
+  },
+  {
+    "id": 61,
+    "vcName": "M13"
+  },
+  {
+    "id": 467,
+    "vcName": "MDC Ventures"
+  },
+  {
+    "id": 583,
+    "vcName": "MIT Delta V"
+  },
+  {
+    "id": 669,
+    "vcName": "MP Healthcare Ventures"
+  },
+  {
+    "id": 489,
+    "vcName": "MSD Capital"
+  },
+  {
+    "id": 468,
+    "vcName": "Manhattan Venture"
+  },
+  {
+    "id": 282,
+    "vcName": "March Capital Partners"
+  },
+  {
+    "id": 530,
+    "vcName": "Marker LLC"
+  },
+  {
+    "id": 20,
+    "vcName": "MarsBio"
+  },
+  {
+    "id": 571,
+    "vcName": "MassChallenge"
+  },
+  {
+    "id": 644,
+    "vcName": "MassMutual"
+  },
+  {
+    "id": 565,
+    "vcName": "MassVentures"
+  },
+  {
+    "id": 621,
+    "vcName": "Massachusetts Capital Resource"
+  },
+  {
+    "id": 634,
+    "vcName": "Massachusetts Clean Energy Center"
+  },
+  {
+    "id": 365,
+    "vcName": "Matrix"
+  },
+  {
+    "id": 366,
+    "vcName": "Maveron"
+  },
+  {
+    "id": 466,
+    "vcName": "Maxfield"
+  },
+  {
+    "id": 367,
+    "vcName": "Mayfield"
+  },
+  {
+    "id": 369,
+    "vcName": "Menlo"
+  },
+  {
+    "id": 370,
+    "vcName": "Meritech"
+  },
+  {
+    "id": 513,
+    "vcName": "Merrill Lynch Ventures"
+  },
+  {
+    "id": 486,
+    "vcName": "Mesa"
+  },
+  {
+    "id": 544,
+    "vcName": "MetaProp NYC"
+  },
+  {
+    "id": 51,
+    "vcName": "MiLA Capital (Make in LA)"
+  },
+  {
+    "id": 435,
+    "vcName": "Millennium Technology Value Partners"
+  },
+  {
+    "id": 371,
+    "vcName": "Mohr Davidow"
+  },
+  {
+    "id": 660,
+    "vcName": "Monarch Capital"
+  },
+  {
+    "id": 594,
+    "vcName": "Monitor Clipper"
+  },
+  {
+    "id": 372,
+    "vcName": "Montage"
+  },
+  {
+    "id": 7,
+    "vcName": "Moonshots Capital"
+  },
+  {
+    "id": 373,
+    "vcName": "Morgenthaler"
+  },
+  {
+    "id": 5,
+    "vcName": "Mucker Capital"
+  },
+  {
+    "id": 483,
+    "vcName": "NGEN"
+  },
+  {
+    "id": 378,
+    "vcName": "NGP Capital"
+  },
+  {
+    "id": 26,
+    "vcName": "Navitas Capital"
+  },
+  {
+    "id": 534,
+    "vcName": "Navy"
+  },
+  {
+    "id": 533,
+    "vcName": "Needham"
+  },
+  {
+    "id": 374,
+    "vcName": "New Enterprise"
+  },
+  {
+    "id": 524,
+    "vcName": "New Leaf"
+  },
+  {
+    "id": 484,
+    "vcName": "New Science"
+  },
+  {
+    "id": 469,
+    "vcName": "New York Venture Partners"
+  },
+  {
+    "id": 529,
+    "vcName": "Newlight"
+  },
+  {
+    "id": 376,
+    "vcName": "Next 47"
+  },
+  {
+    "id": 553,
+    "vcName": "Next View"
+  },
+  {
+    "id": 14,
+    "vcName": "Next10"
+  },
+  {
+    "id": 377,
+    "vcName": "Nexus"
+  },
+  {
+    "id": 24,
+    "vcName": "Noname Ventures"
+  },
+  {
+    "id": 379,
+    "vcName": "Norwest"
+  },
+  {
+    "id": 30,
+    "vcName": "OCV"
+  },
+  {
+    "id": 614,
+    "vcName": "Omega Funds"
+  },
+  {
+    "id": 659,
+    "vcName": "One Way Ventures"
+  },
+  {
+    "id": 427,
+    "vcName": "Onset"
+  },
+  {
+    "id": 564,
+    "vcName": "OpenView"
+  },
+  {
+    "id": 671,
+    "vcName": "Optum Ventures"
+  },
+  {
+    "id": 663,
+    "vcName": "PJC"
+  },
+  {
+    "id": 623,
+    "vcName": "Parthenon"
+  },
+  {
+    "id": 437,
+    "vcName": "Partnership"
+  },
+  {
+    "id": 22,
+    "vcName": "Pasadena Angels"
+  },
+  {
+    "id": 491,
+    "vcName": "Peacock Equity"
+  },
+  {
+    "id": 617,
+    "vcName": "Peak Ridge"
+  },
+  {
+    "id": 526,
+    "vcName": "Perceptive Advisors"
+  },
+  {
+    "id": 672,
+    "vcName": "Pillar VC"
+  },
+  {
+    "id": 381,
+    "vcName": "Pinnacle"
+  },
+  {
+    "id": 382,
+    "vcName": "PivotNorth"
+  },
+  {
+    "id": 383,
+    "vcName": "Plug and Play"
+  },
+  {
+    "id": 569,
+    "vcName": "Polaris Partners"
+  },
+  {
+    "id": 457,
+    "vcName": "Primary Venture"
+  },
+  {
+    "id": 44,
+    "vcName": "Pritzker Group Venture Capital"
+  },
+  {
+    "id": 655,
+    "vcName": "Progress"
+  },
+  {
+    "id": 428,
+    "vcName": "Propel"
+  },
+  {
+    "id": 629,
+    "vcName": "Public Library"
+  },
+  {
+    "id": 55,
+    "vcName": "Quake Capital Los Angeles"
+  },
+  {
+    "id": 615,
+    "vcName": "Quantum Venture"
+  },
+  {
+    "id": 450,
+    "vcName": "Quotidian Ventures"
+  },
+  {
+    "id": 547,
+    "vcName": "RCMH/Dawntreader Ventures"
+  },
+  {
+    "id": 528,
+    "vcName": "RRE Ventures"
+  },
+  {
+    "id": 538,
+    "vcName": "RSE"
+  },
+  {
+    "id": 550,
+    "vcName": "RTP Ventures"
+  },
+  {
+    "id": 641,
+    "vcName": "Raptor Group"
+  },
+  {
+    "id": 439,
+    "vcName": "Red Sea"
+  },
+  {
+    "id": 384,
+    "vcName": "Redmile"
+  },
+  {
+    "id": 357,
+    "vcName": "Redpoint"
+  },
+  {
+    "id": 387,
+    "vcName": "Rembrant"
+  },
+  {
+    "id": 438,
+    "vcName": "Revel"
+  },
+  {
+    "id": 519,
+    "vcName": "Rho. Rho Canada"
+  },
+  {
+    "id": 385,
+    "vcName": "Ridge copy"
+  },
+  {
+    "id": 3,
+    "vcName": "Riot Ventures"
+  },
+  {
+    "id": 501,
+    "vcName": "RiverPark"
+  },
+  {
+    "id": 618,
+    "vcName": "Riverside Partners"
+  },
+  {
+    "id": 632,
+    "vcName": "RockPort Capital"
+  },
+  {
+    "id": 480,
+    "vcName": "Rose Tech"
+  },
+  {
+    "id": 586,
+    "vcName": "Rough Draft Ventures"
+  },
+  {
+    "id": 56,
+    "vcName": "SAM Venture Partners"
+  },
+  {
+    "id": 458,
+    "vcName": "SAS Investors"
+  },
+  {
+    "id": 577,
+    "vcName": "SR One"
+  },
+  {
+    "id": 667,
+    "vcName": "SV Health"
+  },
+  {
+    "id": 32,
+    "vcName": "Saban Ventures"
+  },
+  {
+    "id": 662,
+    "vcName": "Safar"
+  },
+  {
+    "id": 388,
+    "vcName": "Saints Capital"
+  },
+  {
+    "id": 545,
+    "vcName": "Sands Bros"
+  },
+  {
+    "id": 670,
+    "vcName": "Santander Bank"
+  },
+  {
+    "id": 389,
+    "vcName": "Sapphire"
+  },
+  {
+    "id": 633,
+    "vcName": "Saturn Partners"
+  },
+  {
+    "id": 15,
+    "vcName": "Scale"
+  },
+  {
+    "id": 557,
+    "vcName": "Schooner Capital"
+  },
+  {
+    "id": 70,
+    "vcName": "Science"
+  },
+  {
+    "id": 60,
+    "vcName": "Scopus Ventures"
+  },
+  {
+    "id": 541,
+    "vcName": "Scout"
+  },
+  {
+    "id": 494,
+    "vcName": "SeedInvest"
+  },
+  {
+    "id": 391,
+    "vcName": "Sequoia"
+  },
+  {
+    "id": 392,
+    "vcName": "Shasta"
+  },
+  {
+    "id": 393,
+    "vcName": "Sherpa"
+  },
+  {
+    "id": 396,
+    "vcName": "Sierra"
+  },
+  {
+    "id": 654,
+    "vcName": "Sigma Prime"
+  },
+  {
+    "id": 397,
+    "vcName": "SignalFire"
+  },
+  {
+    "id": 440,
+    "vcName": "Silicon Badia"
+  },
+  {
+    "id": 398,
+    "vcName": "Silver Lake"
+  },
+  {
+    "id": 595,
+    "vcName": "Silversmith"
+  },
+  {
+    "id": 627,
+    "vcName": "Sirios"
+  },
+  {
+    "id": 399,
+    "vcName": "Skyline"
+  },
+  {
+    "id": 12,
+    "vcName": "Smpier"
+  },
+  {
+    "id": 566,
+    "vcName": "Soaring Startup Circle Venture Partners"
+  },
+  {
+    "id": 429,
+    "vcName": "Social Capital"
+  },
+  {
+    "id": 340,
+    "vcName": "Sofinnova"
+  },
+  {
+    "id": 673,
+    "vcName": "Solstice"
+  },
+  {
+    "id": 492,
+    "vcName": "Sopris"
+  },
+  {
+    "id": 38,
+    "vcName": "Sound Ventures"
+  },
+  {
+    "id": 400,
+    "vcName": "Spark"
+  },
+  {
+    "id": 620,
+    "vcName": "Spark Capital"
+  },
+  {
+    "id": 649,
+    "vcName": "Spring Lake"
+  },
+  {
+    "id": 521,
+    "vcName": "Sprout Group"
+  },
+  {
+    "id": 8,
+    "vcName": "Stage Venture Partners"
+  },
+  {
+    "id": 537,
+    "vcName": "StarVest"
+  },
+  {
+    "id": 27,
+    "vcName": "StartEngine"
+  },
+  {
+    "id": 495,
+    "vcName": "StartUp"
+  },
+  {
+    "id": 401,
+    "vcName": "StartX"
+  },
+  {
+    "id": 47,
+    "vcName": "Startup UCLA Accelerator"
+  },
+  {
+    "id": 558,
+    "vcName": "Stone Goff"
+  },
+  {
+    "id": 341,
+    "vcName": "Storm"
+  },
+  {
+    "id": 402,
+    "vcName": "Streamlined"
+  },
+  {
+    "id": 25,
+    "vcName": "Strong Ventures"
+  },
+  {
+    "id": 48,
+    "vcName": "Struck Capital"
+  },
+  {
+    "id": 619,
+    "vcName": "Summit"
+  },
+  {
+    "id": 395,
+    "vcName": "Sutter Hill"
+  },
+  {
+    "id": 665,
+    "vcName": "Sverica"
+  },
+  {
+    "id": 403,
+    "vcName": "Sway VC"
+  },
+  {
+    "id": 609,
+    "vcName": "TA"
+  },
+  {
+    "id": 446,
+    "vcName": "TIAA"
+  },
+  {
+    "id": 591,
+    "vcName": "Tamarisc Ventures"
+  },
+  {
+    "id": 2,
+    "vcName": "Techstars"
+  },
+  {
+    "id": 404,
+    "vcName": "Telesoft Partners"
+  },
+  {
+    "id": 41,
+    "vcName": "TenOneTen Ventures"
+  },
+  {
+    "id": 405,
+    "vcName": "Tenaya"
+  },
+  {
+    "id": 447,
+    "vcName": "The Argentum Group"
+  },
+  {
+    "id": 11,
+    "vcName": "The Fund"
+  },
+  {
+    "id": 516,
+    "vcName": "Third Kind"
+  },
+  {
+    "id": 562,
+    "vcName": "Third Rock Ventures"
+  },
+  {
+    "id": 636,
+    "vcName": "Thomas H. Lee Partners"
+  },
+  {
+    "id": 406,
+    "vcName": "Thomvest"
+  },
+  {
+    "id": 407,
+    "vcName": "Three Arch Partners"
+  },
+  {
+    "id": 408,
+    "vcName": "Threshold"
+  },
+  {
+    "id": 496,
+    "vcName": "Thrive Capital"
+  },
+  {
+    "id": 520,
+    "vcName": "Time Warner"
+  },
+  {
+    "id": 49,
+    "vcName": "Touchdown Ventures"
+  },
+  {
+    "id": 517,
+    "vcName": "Tribeca"
+  },
+  {
+    "id": 409,
+    "vcName": "Trident"
+  },
+  {
+    "id": 410,
+    "vcName": "Trinity"
+  },
+  {
+    "id": 411,
+    "vcName": "TriplePoint"
+  },
+  {
+    "id": 412,
+    "vcName": "TRUE"
+  },
+  {
+    "id": 413,
+    "vcName": "Tuesday"
+  },
+  {
+    "id": 509,
+    "vcName": "Two Sigma"
+  },
+  {
+    "id": 16,
+    "vcName": "USC Incubator"
+  },
+  {
+    "id": 415,
+    "vcName": "USVP"
+  },
+  {
+    "id": 664,
+    "vcName": "Underscore VC"
+  },
+  {
+    "id": 523,
+    "vcName": "Union Square"
+  },
+  {
+    "id": 414,
+    "vcName": "Upfront"
+  },
+  {
+    "id": 59,
+    "vcName": "Upfront Ventures"
+  },
+  {
+    "id": 443,
+    "vcName": "Valar Ventures"
+  },
+  {
+    "id": 531,
+    "vcName": "Valor"
+  },
+  {
+    "id": 416,
+    "vcName": "VantagePoint"
+  },
+  {
+    "id": 497,
+    "vcName": "Vast Ventures"
+  },
+  {
+    "id": 552,
+    "vcName": "VaynerX"
+  },
+  {
+    "id": 417,
+    "vcName": "Venrock"
+  },
+  {
+    "id": 418,
+    "vcName": "Versant"
+  },
+  {
+    "id": 419,
+    "vcName": "Vertex"
+  },
+  {
+    "id": 572,
+    "vcName": "Vestigo + Link"
+  },
+  {
+    "id": 575,
+    "vcName": "Victress"
+  },
+  {
+    "id": 589,
+    "vcName": "Vida Ventures"
+  },
+  {
+    "id": 420,
+    "vcName": "Vivo"
+  },
+  {
+    "id": 592,
+    "vcName": "Volition"
+  },
+  {
+    "id": 656,
+    "vcName": "WAVE Equity"
+  },
+  {
+    "id": 39,
+    "vcName": "WME Ventures"
+  },
+  {
+    "id": 35,
+    "vcName": "WMG Investments"
+  },
+  {
+    "id": 68,
+    "vcName": "WONDER"
+  },
+  {
+    "id": 421,
+    "vcName": "Walden"
+  },
+  {
+    "id": 500,
+    "vcName": "Wall Street Tech"
+  },
+  {
+    "id": 540,
+    "vcName": "Wand Partners"
+  },
+  {
+    "id": 445,
+    "vcName": "Wasserstein"
+  },
+  {
+    "id": 58,
+    "vcName": "Watertower Ventures"
+  },
+  {
+    "id": 642,
+    "vcName": "Wellington Management"
+  },
+  {
+    "id": 647,
+    "vcName": "WestView Capital Partners"
+  },
+  {
+    "id": 423,
+    "vcName": "Western Tech Investments"
+  },
+  {
+    "id": 630,
+    "vcName": "Windsail"
+  },
+  {
+    "id": 506,
+    "vcName": "Work-Bench"
+  },
+  {
+    "id": 422,
+    "vcName": "Worldview Tech Partners"
+  },
+  {
+    "id": 560,
+    "vcName": "X Fund"
+  },
+  {
+    "id": 532,
+    "vcName": "XRC Labs"
+  },
+  {
+    "id": 424,
+    "vcName": "Y Combinator"
+  },
+  {
+    "id": 6,
+    "vcName": "Yellow"
+  },
+  {
+    "id": 425,
+    "vcName": "Yes VC"
+  },
+  {
+    "id": 657,
+    "vcName": "Zero Stage. Broadview"
+  },
+  {
+    "id": 470,
+    "vcName": "blisce/"
+  },
+  {
+    "id": 462,
+    "vcName": "city Light Capital"
+  },
+  {
+    "id": 36,
+    "vcName": "dot.LA"
+  },
+  {
+    "id": 386,
+    "vcName": "e.Ventures"
+  },
+  {
+    "id": 505,
+    "vcName": "ff Venture Capital"
+  },
+  {
+    "id": 477,
+    "vcName": "i-Hatch"
+  },
+  {
+    "id": 380,
+    "vcName": "pierhouse"
+  },
+  {
+    "id": 628,
+    "vcName": "techstars"
+  }
+]
