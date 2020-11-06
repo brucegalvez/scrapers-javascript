@@ -3,7 +3,7 @@ import fs from "fs";
 import vcList from "./vcs.json";
 
 const scrape = async (vcList) => {
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < vcList.length; i++) {
     const getData = async () => {
       const linkedin = await searchAndScrape(
         `site:linkedin.com ${vcList[i].vcName}`
