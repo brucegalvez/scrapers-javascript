@@ -1,12 +1,8 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
 
-const searchAndScrape = async (query) => {
+const searchAndScrape = async (browser, query) => {
   try {
-    const browser = await puppeteer.launch({
-      // headless: false,
-      args: ["--lang=en-US,en"],
-    });
     const page = await browser.newPage();
     page.setDefaultNavigationTimeout(0);
     await page.setExtraHTTPHeaders({
@@ -21,7 +17,7 @@ const searchAndScrape = async (query) => {
         a.getAttribute("href")
       )
     );
-    await browser.close();
+    await page.close();
     return url;
   } catch (err) {
     console.error(err);
@@ -31,15 +27,22 @@ const searchAndScrape = async (query) => {
 const scrapeSocialAccounts = async (vcList) => {
   const date = new Date();
   const newFileName = `${date.getTime()}.json`;
+  const browser = await puppeteer.launch({
+    headless: false,
+    args: ["--lang=en-US,en"],
+  });
   for (let i = 0; i < 3; i++) {
     const getData = async () => {
       const linkedin = await searchAndScrape(
+        browser,
         `site:linkedin.com ${vcList[i].vcName}`
       );
       const instagram = await searchAndScrape(
+        browser,
         `site:instagram.com ${vcList[i].vcName}`
       );
       const twitter = await searchAndScrape(
+        browser,
         `site:twitter.com ${vcList[i].vcName}`
       );
       return { linkedin, instagram, twitter };
@@ -56,6 +59,7 @@ const scrapeSocialAccounts = async (vcList) => {
       }
     );
   }
+  await browser.close();
 };
 
 export default scrapeSocialAccounts;
