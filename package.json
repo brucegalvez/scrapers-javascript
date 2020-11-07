@@ -1,5 +1,5 @@
 {
-  "name": "scraper-google",
+  "name": "scrapers-javascript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "esm": "^3.2.25",
     "puppeteer": "^5.4.1"
   }
