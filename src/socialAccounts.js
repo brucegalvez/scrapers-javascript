@@ -33,18 +33,11 @@ const scrapeSocialAccounts = async (vcList) => {
   });
   for (let i = 0; i < 3; i++) {
     const getData = async () => {
-      const linkedin = await searchAndScrape(
-        browser,
-        `site:linkedin.com ${vcList[i].vcName}`
-      );
-      const instagram = await searchAndScrape(
-        browser,
-        `site:instagram.com ${vcList[i].vcName}`
-      );
-      const twitter = await searchAndScrape(
-        browser,
-        `site:twitter.com ${vcList[i].vcName}`
-      );
+      const [linkedin, instagram, twitter] = await Promise.all([
+        searchAndScrape(browser, `site:linkedin.com ${vcList[i].vcName}`),
+        searchAndScrape(browser, `site:instagram.com ${vcList[i].vcName}`),
+        searchAndScrape(browser, `site:twitter.com ${vcList[i].vcName}`),
+      ]);
       return { linkedin, instagram, twitter };
     };
     const data = await getData();
