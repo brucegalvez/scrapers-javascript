@@ -31,7 +31,7 @@ const scrapeSocialAccounts = async (vcList) => {
     headless: false,
     args: ["--lang=en-US,en"],
   });
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < vcList.length; i++) {
     const getData = async () => {
       const [linkedin, instagram, twitter] = await Promise.all([
         searchAndScrape(browser, `site:linkedin.com ${vcList[i].vcName}`),
